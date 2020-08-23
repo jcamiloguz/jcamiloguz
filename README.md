@@ -1,22 +1,23 @@
 # Hi there.✌
 ## Juan Camilo Guzman
-### Web developer🌍and engineering student 👨‍💻
-
-
+### Software developer🌍and engineering student 👨‍💻
 
 #### As frontend
-* Html, css and Javascript
-* Css-preprocessors
-#### As Backend
+* Html, css and scss as Css-preprocessors 
+* React: Hooks, Redux and flux
+* Progressive web application
+* API_REST consumption
+#### As Backen
 * JavaScript for backend: Nodejs and express
 * Npm as dependencies mang
-#### Soft-skills
-* Git work-flow
+* API-REST  creation
+* DataBase mangment: SQL and NOSQL
+#### WorkFlow
+* Git 
 * Webpack
- 
-#### What i am learning
-* Single Page applications
-* Progressive web applications
-* Python for backend: flask and Django
-* Ui frameworks:React, Angular and vue
-* Database managment
+* vscode
+* WSL (window subsystem for linux)
+#### What i want to learn
+* For backend: Puthon, Go
+* For frontend: Vue, graphql
+
