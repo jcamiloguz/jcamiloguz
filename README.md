@@ -5,7 +5,7 @@
 * React: Hooks, Redux and flux
 * Progressive web application
 * API_REST consumption
-#### As Backen
+#### As Backend
 * JavaScript for backend: Nodejs and express
 * Npm as dependencies mang
 * API-REST  creation
