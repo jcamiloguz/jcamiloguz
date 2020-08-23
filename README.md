@@ -1,7 +1,5 @@
 # Hi there.✌
-## Juan Camilo Guzman
-### Software developer🌍and engineering student 👨‍💻
-
+#### i'm a Software developer🌍and engineering student 👨‍💻
 #### As frontend
 * Html, css and scss as Css-preprocessors 
 * React: Hooks, Redux and flux
