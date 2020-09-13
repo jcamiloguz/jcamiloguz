@@ -16,6 +16,8 @@
 * vscode
 * WSL (window subsystem for linux)
 #### What i want to learn
-* For backend: Puthon, Go
-* For frontend: Vue, graphql
+* Python
+* Go
+* Vue
+* Graphql
 
