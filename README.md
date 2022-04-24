@@ -1,23 +1,19 @@
 # Hi there.✌
-#### i'm a Software developer🌍and engineering student 👨‍💻
-#### As frontend
+#### i'm a Software developer 🌍 and engineering student 👨‍💻
+#### Frontend
 * Html, css and scss as Css-preprocessors 
-* React: Hooks, Redux and flux
+* **React** as mainly js framework 
+* **React Native** for mobile development
 * Progressive web application
-* API_REST consumption
-#### As Backend
-* JavaScript for backend: Nodejs and express
-* Npm as dependencies mang
-* API-REST  creation
-* DataBase mangment: SQL and NOSQL
+* Webpack and vite as bundler
+* **API REST** consumption
+#### Backend
+* JavaScript for backend: **Nodejs**, Python and some of Go 
+* Testing with **Jest**
+* Npm and yarn as dependencies manager
+* API REST  
+* SQL: **Postgresql** and Mysql
 #### WorkFlow
 * Git 
-* Webpack
-* vscode
-* WSL (window subsystem for linux)
-#### What i want to learn
-* Python
-* Go
-* Vue
-* Graphql
-
+* Vscode
+* Zsh (Oh-My-Zsh)
