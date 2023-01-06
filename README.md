@@ -10,8 +10,6 @@
 * Typescript for backend with **Nodejs**, Python and some of Go 
 * **NestJs** as mainly back framework
 * Testing with **Jest** 🧪
-* Npm and yarn as dependencies manager
-* API REST  
 * SQL: **Postgresql** and Mysql 💾
 * NOSQL: **MongoDb**
 #### AWS
