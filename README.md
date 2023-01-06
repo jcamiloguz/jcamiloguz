@@ -1,19 +1,20 @@
 # Hi there.✌
-#### i'm a Software developer 🌍 and engineering student 👨‍💻
+#### I am a software engineer who wants to change the world by coding 🌍 👨‍💻
+
+## SKILLS
 #### Frontend 
-* Html, css and scss as Css-preprocessors 
-* **React** as mainly js framework 💻
-* **React Native** for mobile development 📱
-* Progressive web application
-* Webpack and vite as bundler
-* **API REST** consumption
+* **React** as mainly front framework 💻
+* Prefering work with **Typescript** 
+* **Tailwind Scss and Style Components**
 #### Backend 
-* JavaScript for backend: **Nodejs**, Python and some of Go 
+* Typescript for backend with **Nodejs**, Python and some of Go 
+* **NestJs** as mainly back framework
 * Testing with **Jest** 🧪
 * Npm and yarn as dependencies manager
 * API REST  
 * SQL: **Postgresql** and Mysql 💾
-#### WorkFlow
-* Git 
-* Vscode
-* Zsh (Oh-My-Zsh)
+* NOSQL: **MongoDb**
+#### AWS
+* EC2: virtual machines and compute power
+* ECS with fargate: container clusters deploy
+* RDS: For relational databases
